@@ -1,6 +1,6 @@
-###########################################################
-###### ES EL MISMO SCRIPT PERO ACTUALIZADO CON HILOS ######
-###########################################################
+#############################################################
+###### ES EL MISMO SCRIPT PERO ACTUALIZADO Y CON HILOS ######
+#############################################################
 
 import argparse, sys, socket, time, signal, colorama, re, ipaddress, threading
 from scapy.all import *
